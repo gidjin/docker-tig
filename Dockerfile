@@ -8,4 +8,4 @@ WORKDIR /tmp
 
 ENTRYPOINT ["tig"]
 
-CMD ["--help"]
+CMD ["."]
